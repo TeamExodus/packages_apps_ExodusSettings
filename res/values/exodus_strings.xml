@@ -22,4 +22,5 @@
     <!-- Exodus #RomControl LCD_Density @see cm-string.xml -->
     <string name="lcd_density_summary">Changes your screen resolution and please note upon selection of this screen density device automatically restarts the UI</string>
 
+    <string name="exodus_display">Display</string>
 </resources>
